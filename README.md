@@ -1,4 +1,4 @@
-# Quick Regex Tester — Online Regular Expression Matcher
+# Quick Regex Tester | Online Regular Expression Matcher
 
 > Test and debug regular expressions with capture group extraction, match offsets, and real-time evaluation 100% client-side.
 
@@ -10,7 +10,7 @@
 
 ---
 
-## ⚡ Key Features
+## Features
 
 - **100% Client-Side & Offline:** Pure vanilla JavaScript runtime. Zero network uploads, zero telemetry, zero analytics tracking.
 - **Instant Processing:** Zero dependencies or heavy frameworks for ultra-fast, lightweight execution.
@@ -19,13 +19,13 @@
 
 ---
 
-## 📖 How It Works
+## How it works
 
 Enter your regex pattern and test string. Quick Regex highlights all matches, group captures, and match character indices in real-time.
 
 ---
 
-## 🛠️ Offline Chrome Extension Installation
+## Install the extension
 
 1. Download or clone this repository:
    ```bash
@@ -38,7 +38,7 @@ Enter your regex pattern and test string. Quick Regex highlights all matches, gr
 
 ---
 
-## 💡 Frequently Asked Questions (FAQ)
+## FAQ
 
 ### Is my data uploaded to any server?
 No. Everything executes locally inside your browser memory or extension sandbox. No telemetry, third-party scripts, or API requests are made.
@@ -53,7 +53,7 @@ const engine = require('./core');
 
 ---
 
-## 📄 License & Author
+## License and support
 
 - **Author:** [jju1s](https://github.com/cig13zs)
 - **License:** [MIT License](LICENSE)
